@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alexeiidonestkiy.alexeiidonetskiy)
+<br>
 Thanks for increasing my visitors count :p
+<br>
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
 <!--
 **alexeiidonetskiy/alexeiidonetskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
